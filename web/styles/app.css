@@ -1,0 +1,40 @@
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#app > h1 {
+  color: #996dff;
+  margin-top: -5px;
+  user-select: none;
+}
+
+#app > img {
+  user-select: none;
+}
+
+#app > h2 {
+  align-self: flex-start;
+  margin-top: 64px;
+  flex: none;
+}
+
+#app > p {
+  align-self: flex-start;
+  text-align: justify;
+  width: 512px;
+  margin-top: -5px;
+}
+
+#app .placeholder {
+  color: #7c7c8a;
+  user-select: none;
+}
+
+#app > #erro{
+  margin-top: 10px;
+  margin-bottom: -30px;
+  color: #7c7c8a;
+  user-select: none;
+}
