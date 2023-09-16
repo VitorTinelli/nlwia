@@ -16,7 +16,7 @@
 }
 
 #form > input:focus{
-  outline: 2px solid #8257E5;
+  outline: 2px solid #BD0D00;
 }
 
 #form > input:valid{
@@ -28,12 +28,12 @@
   width: 48px;
   border: none;
   border-radius: 5px;
-  background-color: #8257E5;
+  background-color: #BD0D00;
   cursor: pointer;
 }
 
 #form > button:hover{
-  background-color: #633bbc;
+  background-color: #BD010E;
   transition: background-color 0.2s;
 }
 

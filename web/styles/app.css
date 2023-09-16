@@ -5,7 +5,7 @@
 }
 
 #app > h1 {
-  color: #996dff;
+  color: #BD0D00;
   margin-top: -5px;
   user-select: none;
 }
@@ -23,7 +23,7 @@
 #app > p {
   align-self: flex-start;
   text-align: justify;
-  width: 512px;
+  width: 534px;
   margin-top: -5px;
 }
 
