@@ -2,6 +2,8 @@
   Rushando Shorts<br>
 </h2>
   <br>
+  ![Captura de tela 2023-09-16 084657](https://github.com/VitorTinelli/rushandoShorts/assets/110418177/f93648a7-316f-4afa-aee6-9b751e6e1741)
+  <br><br>
 
 <h4>Ferramentas utilizadas:</h4>
 BackEnd:<br> node.js <br>
