@@ -1,5 +1,5 @@
 <h2 align="center">
-  Aplicação para resumo de YT shorts com uso de IA<br>
+  Rushando Shorts<br>
 </h2>
   <br>
 
